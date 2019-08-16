@@ -40,6 +40,6 @@
       $('#cropedBigImg').attr('src', src);
     });
   </script>
-  <%-- 1234567890 --%>
+  <%-- 0000000000000 --%>
   </body>
 </html>
